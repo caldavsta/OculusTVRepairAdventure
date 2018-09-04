@@ -1,0 +1,527 @@
+fileFormatVersion: 2
+guid: 43e85bfdf0dcb474aaa04e8fbda5ee3a
+timeCreated: 1476607346
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Layer_0
+    100004: Layer_0 1
+    100006: Layer_0 10
+    100008: Layer_0 2
+    100010: Layer_0 3
+    100012: Layer_0 4
+    100014: Layer_0 5
+    100016: Layer_0 6
+    100018: Layer_0 7
+    100020: Layer_0 8
+    100022: Layer_0 9
+    100024: Layer_0_0
+    100026: Layer_0_1
+    100028: Layer_0_10
+    100030: Layer_0_11
+    100032: Layer_0_12
+    100034: Layer_0_13
+    100036: Layer_0_14
+    100038: Layer_0_15
+    100040: Layer_0_16
+    100042: Layer_0_17
+    100044: Layer_0_18
+    100046: Layer_0_19
+    100048: Layer_0_2
+    100050: Layer_0_20
+    100052: Layer_0_21
+    100054: Layer_0_22
+    100056: Layer_0_23
+    100058: Layer_0_24
+    100060: Layer_0_25
+    100062: Layer_0_26
+    100064: Layer_0_27
+    100066: Layer_0_28
+    100068: Layer_0_29
+    100070: Layer_0_3
+    100072: Layer_0_30
+    100074: Layer_0_31
+    100076: Layer_0_32
+    100078: Layer_0_33
+    100080: Layer_0_34
+    100082: Layer_0_35
+    100084: Layer_0_36
+    100086: Layer_0_37
+    100088: Layer_0_38
+    100090: Layer_0_39
+    100092: Layer_0_4
+    100094: Layer_0_40
+    100096: Layer_0_41
+    100098: Layer_0_42
+    100100: Layer_0_43
+    100102: Layer_0_44
+    100104: Layer_0_45
+    100106: Layer_0_46
+    100108: Layer_0_47
+    100110: Layer_0_48
+    100112: Layer_0_49
+    100114: Layer_0_5
+    100116: Layer_0_50
+    100118: Layer_0_51
+    100120: Layer_0_52
+    100122: Layer_0_53
+    100124: Layer_0_54
+    100126: Layer_0_55
+    100128: Layer_0_56
+    100130: Layer_0_57
+    100132: Layer_0_58
+    100134: Layer_0_59
+    100136: Layer_0_6
+    100138: Layer_0_60
+    100140: Layer_0_61
+    100142: Layer_0_62
+    100144: Layer_0_63
+    100146: Layer_0_64
+    100148: Layer_0_65
+    100150: Layer_0_66
+    100152: Layer_0_67
+    100154: Layer_0_68
+    100156: Layer_0_69
+    100158: Layer_0_7
+    100160: Layer_0_70
+    100162: Layer_0_71
+    100164: Layer_0_72
+    100166: Layer_0_73
+    100168: Layer_0_74
+    100170: Layer_0_75
+    100172: Layer_0_76
+    100174: Layer_0_77
+    100176: Layer_0_78
+    100178: Layer_0_79
+    100180: Layer_0_8
+    100182: Layer_0_80
+    100184: Layer_0_81
+    100186: Layer_0_9
+    100188: Pivot-Layer_0
+    100190: Pivot-Layer_0 1
+    100192: Pivot-Layer_0 10
+    100194: Pivot-Layer_0 2
+    100196: Pivot-Layer_0 3
+    100198: Pivot-Layer_0 4
+    100200: Pivot-Layer_0 5
+    100202: Pivot-Layer_0 6
+    100204: Pivot-Layer_0 7
+    100206: Pivot-Layer_0 8
+    100208: Pivot-Layer_0 9
+    400000: //RootNode
+    400002: Layer_0
+    400004: Layer_0 1
+    400006: Layer_0 10
+    400008: Layer_0 2
+    400010: Layer_0 3
+    400012: Layer_0 4
+    400014: Layer_0 5
+    400016: Layer_0 6
+    400018: Layer_0 7
+    400020: Layer_0 8
+    400022: Layer_0 9
+    400024: Layer_0_0
+    400026: Layer_0_1
+    400028: Layer_0_10
+    400030: Layer_0_11
+    400032: Layer_0_12
+    400034: Layer_0_13
+    400036: Layer_0_14
+    400038: Layer_0_15
+    400040: Layer_0_16
+    400042: Layer_0_17
+    400044: Layer_0_18
+    400046: Layer_0_19
+    400048: Layer_0_2
+    400050: Layer_0_20
+    400052: Layer_0_21
+    400054: Layer_0_22
+    400056: Layer_0_23
+    400058: Layer_0_24
+    400060: Layer_0_25
+    400062: Layer_0_26
+    400064: Layer_0_27
+    400066: Layer_0_28
+    400068: Layer_0_29
+    400070: Layer_0_3
+    400072: Layer_0_30
+    400074: Layer_0_31
+    400076: Layer_0_32
+    400078: Layer_0_33
+    400080: Layer_0_34
+    400082: Layer_0_35
+    400084: Layer_0_36
+    400086: Layer_0_37
+    400088: Layer_0_38
+    400090: Layer_0_39
+    400092: Layer_0_4
+    400094: Layer_0_40
+    400096: Layer_0_41
+    400098: Layer_0_42
+    400100: Layer_0_43
+    400102: Layer_0_44
+    400104: Layer_0_45
+    400106: Layer_0_46
+    400108: Layer_0_47
+    400110: Layer_0_48
+    400112: Layer_0_49
+    400114: Layer_0_5
+    400116: Layer_0_50
+    400118: Layer_0_51
+    400120: Layer_0_52
+    400122: Layer_0_53
+    400124: Layer_0_54
+    400126: Layer_0_55
+    400128: Layer_0_56
+    400130: Layer_0_57
+    400132: Layer_0_58
+    400134: Layer_0_59
+    400136: Layer_0_6
+    400138: Layer_0_60
+    400140: Layer_0_61
+    400142: Layer_0_62
+    400144: Layer_0_63
+    400146: Layer_0_64
+    400148: Layer_0_65
+    400150: Layer_0_66
+    400152: Layer_0_67
+    400154: Layer_0_68
+    400156: Layer_0_69
+    400158: Layer_0_7
+    400160: Layer_0_70
+    400162: Layer_0_71
+    400164: Layer_0_72
+    400166: Layer_0_73
+    400168: Layer_0_74
+    400170: Layer_0_75
+    400172: Layer_0_76
+    400174: Layer_0_77
+    400176: Layer_0_78
+    400178: Layer_0_79
+    400180: Layer_0_8
+    400182: Layer_0_80
+    400184: Layer_0_81
+    400186: Layer_0_9
+    400188: Pivot-Layer_0
+    400190: Pivot-Layer_0 1
+    400192: Pivot-Layer_0 10
+    400194: Pivot-Layer_0 2
+    400196: Pivot-Layer_0 3
+    400198: Pivot-Layer_0 4
+    400200: Pivot-Layer_0 5
+    400202: Pivot-Layer_0 6
+    400204: Pivot-Layer_0 7
+    400206: Pivot-Layer_0 8
+    400208: Pivot-Layer_0 9
+    2300000: Layer_0_0
+    2300002: Layer_0_1
+    2300004: Layer_0_10
+    2300006: Layer_0_11
+    2300008: Layer_0_12
+    2300010: Layer_0_13
+    2300012: Layer_0_14
+    2300014: Layer_0_15
+    2300016: Layer_0_16
+    2300018: Layer_0_17
+    2300020: Layer_0_18
+    2300022: Layer_0_19
+    2300024: Layer_0_2
+    2300026: Layer_0_20
+    2300028: Layer_0_21
+    2300030: Layer_0_22
+    2300032: Layer_0_23
+    2300034: Layer_0_24
+    2300036: Layer_0_25
+    2300038: Layer_0_26
+    2300040: Layer_0_27
+    2300042: Layer_0_28
+    2300044: Layer_0_29
+    2300046: Layer_0_3
+    2300048: Layer_0_30
+    2300050: Layer_0_31
+    2300052: Layer_0_32
+    2300054: Layer_0_33
+    2300056: Layer_0_34
+    2300058: Layer_0_35
+    2300060: Layer_0_36
+    2300062: Layer_0_37
+    2300064: Layer_0_38
+    2300066: Layer_0_39
+    2300068: Layer_0_4
+    2300070: Layer_0_40
+    2300072: Layer_0_41
+    2300074: Layer_0_42
+    2300076: Layer_0_43
+    2300078: Layer_0_44
+    2300080: Layer_0_45
+    2300082: Layer_0_46
+    2300084: Layer_0_47
+    2300086: Layer_0_48
+    2300088: Layer_0_49
+    2300090: Layer_0_5
+    2300092: Layer_0_50
+    2300094: Layer_0_51
+    2300096: Layer_0_52
+    2300098: Layer_0_53
+    2300100: Layer_0_54
+    2300102: Layer_0_55
+    2300104: Layer_0_56
+    2300106: Layer_0_57
+    2300108: Layer_0_58
+    2300110: Layer_0_59
+    2300112: Layer_0_6
+    2300114: Layer_0_60
+    2300116: Layer_0_61
+    2300118: Layer_0_62
+    2300120: Layer_0_63
+    2300122: Layer_0_64
+    2300124: Layer_0_65
+    2300126: Layer_0_66
+    2300128: Layer_0_67
+    2300130: Layer_0_68
+    2300132: Layer_0_69
+    2300134: Layer_0_7
+    2300136: Layer_0_70
+    2300138: Layer_0_71
+    2300140: Layer_0_72
+    2300142: Layer_0_73
+    2300144: Layer_0_74
+    2300146: Layer_0_75
+    2300148: Layer_0_76
+    2300150: Layer_0_77
+    2300152: Layer_0_78
+    2300154: Layer_0_79
+    2300156: Layer_0_8
+    2300158: Layer_0_80
+    2300160: Layer_0_81
+    2300162: Layer_0_9
+    3300000: Layer_0_0
+    3300002: Layer_0_1
+    3300004: Layer_0_10
+    3300006: Layer_0_11
+    3300008: Layer_0_12
+    3300010: Layer_0_13
+    3300012: Layer_0_14
+    3300014: Layer_0_15
+    3300016: Layer_0_16
+    3300018: Layer_0_17
+    3300020: Layer_0_18
+    3300022: Layer_0_19
+    3300024: Layer_0_2
+    3300026: Layer_0_20
+    3300028: Layer_0_21
+    3300030: Layer_0_22
+    3300032: Layer_0_23
+    3300034: Layer_0_24
+    3300036: Layer_0_25
+    3300038: Layer_0_26
+    3300040: Layer_0_27
+    3300042: Layer_0_28
+    3300044: Layer_0_29
+    3300046: Layer_0_3
+    3300048: Layer_0_30
+    3300050: Layer_0_31
+    3300052: Layer_0_32
+    3300054: Layer_0_33
+    3300056: Layer_0_34
+    3300058: Layer_0_35
+    3300060: Layer_0_36
+    3300062: Layer_0_37
+    3300064: Layer_0_38
+    3300066: Layer_0_39
+    3300068: Layer_0_4
+    3300070: Layer_0_40
+    3300072: Layer_0_41
+    3300074: Layer_0_42
+    3300076: Layer_0_43
+    3300078: Layer_0_44
+    3300080: Layer_0_45
+    3300082: Layer_0_46
+    3300084: Layer_0_47
+    3300086: Layer_0_48
+    3300088: Layer_0_49
+    3300090: Layer_0_5
+    3300092: Layer_0_50
+    3300094: Layer_0_51
+    3300096: Layer_0_52
+    3300098: Layer_0_53
+    3300100: Layer_0_54
+    3300102: Layer_0_55
+    3300104: Layer_0_56
+    3300106: Layer_0_57
+    3300108: Layer_0_58
+    3300110: Layer_0_59
+    3300112: Layer_0_6
+    3300114: Layer_0_60
+    3300116: Layer_0_61
+    3300118: Layer_0_62
+    3300120: Layer_0_63
+    3300122: Layer_0_64
+    3300124: Layer_0_65
+    3300126: Layer_0_66
+    3300128: Layer_0_67
+    3300130: Layer_0_68
+    3300132: Layer_0_69
+    3300134: Layer_0_7
+    3300136: Layer_0_70
+    3300138: Layer_0_71
+    3300140: Layer_0_72
+    3300142: Layer_0_73
+    3300144: Layer_0_74
+    3300146: Layer_0_75
+    3300148: Layer_0_76
+    3300150: Layer_0_77
+    3300152: Layer_0_78
+    3300154: Layer_0_79
+    3300156: Layer_0_8
+    3300158: Layer_0_80
+    3300160: Layer_0_81
+    3300162: Layer_0_9
+    4300000: Layer_0_0
+    4300002: Layer_0_1
+    4300004: Layer_0_2
+    4300006: Layer_0_3
+    4300008: Layer_0_4
+    4300010: Layer_0_5
+    4300012: Layer_0_6
+    4300014: Layer_0_7
+    4300016: Layer_0_8
+    4300018: Layer_0_9
+    4300020: Layer_0_10
+    4300022: Layer_0_11
+    4300024: Layer_0_12
+    4300026: Layer_0_13
+    4300028: Layer_0_14
+    4300030: Layer_0_15
+    4300032: Layer_0_16
+    4300034: Layer_0_17
+    4300036: Layer_0_18
+    4300038: Layer_0_19
+    4300040: Layer_0_20
+    4300042: Layer_0_21
+    4300044: Layer_0_22
+    4300046: Layer_0_23
+    4300048: Layer_0_24
+    4300050: Layer_0_25
+    4300052: Layer_0_26
+    4300054: Layer_0_27
+    4300056: Layer_0_28
+    4300058: Layer_0_29
+    4300060: Layer_0_30
+    4300062: Layer_0_31
+    4300064: Layer_0_32
+    4300066: Layer_0_33
+    4300068: Layer_0_34
+    4300070: Layer_0_35
+    4300072: Layer_0_36
+    4300074: Layer_0_37
+    4300076: Layer_0_38
+    4300078: Layer_0_39
+    4300080: Layer_0_40
+    4300082: Layer_0_41
+    4300084: Layer_0_42
+    4300086: Layer_0_43
+    4300088: Layer_0_44
+    4300090: Layer_0_45
+    4300092: Layer_0_46
+    4300094: Layer_0_47
+    4300096: Layer_0_48
+    4300098: Layer_0_49
+    4300100: Layer_0_50
+    4300102: Layer_0_51
+    4300104: Layer_0_52
+    4300106: Layer_0_53
+    4300108: Layer_0_54
+    4300110: Layer_0_55
+    4300112: Layer_0_56
+    4300114: Layer_0_57
+    4300116: Layer_0_58
+    4300118: Layer_0_59
+    4300120: Layer_0_60
+    4300122: Layer_0_61
+    4300124: Layer_0_62
+    4300126: Layer_0_63
+    4300128: Layer_0_64
+    4300130: Layer_0_65
+    4300132: Layer_0_66
+    4300134: Layer_0_67
+    4300136: Layer_0_68
+    4300138: Layer_0_69
+    4300140: Layer_0_70
+    4300142: Layer_0_71
+    4300144: Layer_0_72
+    4300146: Layer_0_73
+    4300148: Layer_0_74
+    4300150: Layer_0_75
+    4300152: Layer_0_76
+    4300154: Layer_0_77
+    4300156: Layer_0_78
+    4300158: Layer_0_79
+    4300160: Layer_0_80
+    4300162: Layer_0_81
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

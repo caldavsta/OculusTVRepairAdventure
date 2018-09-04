@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 41b07a880d26ad246aabe542467fd2da
+timeCreated: 1479917407
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - AudioBeginLookingAt: {fileID: 8300000, guid: 9666920db10baab42a507eeca7050217,
+      type: 3}
+  - AudioStopLookingAt: {fileID: 8300000, guid: 2bacdc50172062f4683fa3ae5178a3e0,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
